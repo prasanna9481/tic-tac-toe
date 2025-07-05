@@ -34,4 +34,4 @@ This is a simple web-based Tic Tac Toe game where you can play against an AI opp
 - Add animations and sounds.
 
 ## 📌 Credits
-Made by Prasanna.
+Ayushman and Prasanna
